@@ -30,6 +30,7 @@
 		97A25D921B807B98009F0B52 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 97A25D821B807B98009F0B52 /* UIImageView+WebCache.m */; };
 		97A25D931B807B98009F0B52 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 97A25D841B807B98009F0B52 /* UIView+WebCacheOperation.m */; };
 		97A25D971B807C5E009F0B52 /* MHFacebookImageViewer.m in Sources */ = {isa = PBXBuildFile; fileRef = 97A25D961B807C5E009F0B52 /* MHFacebookImageViewer.m */; };
+		97A25D991B808E9E009F0B52 /* Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 97A25D981B808E9E009F0B52 /* Screen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		97A25D841B807B98009F0B52 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
 		97A25D951B807C5E009F0B52 /* MHFacebookImageViewer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MHFacebookImageViewer.h; sourceTree = "<group>"; };
 		97A25D961B807C5E009F0B52 /* MHFacebookImageViewer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MHFacebookImageViewer.m; sourceTree = "<group>"; };
+		97A25D981B808E9E009F0B52 /* Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		97A25D371B807907009F0B52 /* GridStyleWebPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				97A25D981B808E9E009F0B52 /* Screen.png */,
 				97A25D601B807991009F0B52 /* PhotoBrowser */,
 				97A25D5E1B80795C009F0B52 /* Vendor */,
 				97A25D3C1B807907009F0B52 /* AppDelegate.h */,
@@ -314,6 +317,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97A25D441B807907009F0B52 /* Main.storyboard in Resources */,
+				97A25D991B808E9E009F0B52 /* Screen.png in Resources */,
 				97A25D491B807907009F0B52 /* LaunchScreen.xib in Resources */,
 				97A25D461B807907009F0B52 /* Images.xcassets in Resources */,
 			);
